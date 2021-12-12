@@ -1,0 +1,5 @@
+.idea
+/rendered/*
+!/rendered/.gitkeep
+/sources/*
+!/sources/.gitkeep
